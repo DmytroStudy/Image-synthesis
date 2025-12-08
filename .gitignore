@@ -2,4 +2,7 @@
 .idea/
 __pycache__/
 CelebA/images/
-CelebA/images_cropped/
+CelebA/images_cropped_128/
+CelebA/images_cropped_64/
+cache_images/
+wandb/
